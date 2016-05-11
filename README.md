@@ -4,15 +4,15 @@
 
 <h4 style="text-align:center">
   This course introduces linear algebra topics which include: 
-  Systems of equations, matrices and hypermatrices, inner product spaces, Spectral Decomposition and SVD
+  Systems of equations, matrices and hypermatrices, inner product spaces, Spectral Decompositions and SVD
   with applications (using Sagemath).
 </h4>
 
 
 # Information
 
-- Course location: MTWRF from 8:40 am - 9:40 (section 001).
-- Office hours:  MTWRF from 9:40 am - 10:10.
+- Course location: MTWRF from 8:40 am - 9:40 am (section 001).
+- Office hours:  MTWRF from 9:40 am - 10:10 am.
 - Course website: <https://github.com/gnang/MA35100>
 - Professor: [Edinah Gnang](http://www.math.purdue.edu/~egnang/)
 

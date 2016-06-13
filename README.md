@@ -27,10 +27,9 @@ In this course you will:
 
 # Your Responsibilities
 
-- *Homework:* (25% of grade)
-- *Two midterms:* (20% each)
-- *Final*: (30% of grade)
-- *Quizzes*: (5% of grade)
+- *Homework and Quizzes :* (25% of grade)
+- *Two midterms:* (25% each)
+- *Final*: (25% of grade)
 
 
 # Assignment Schedule

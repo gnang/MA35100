@@ -1,6 +1,6 @@
-# Elementary Linear Algebra - 22450 - MA 35100 - 001
+# Elementary Linear Algebra - 22450 - MA 35100 - 021 and 081
 
-## Summer 2016 at Purdue University
+## Spring 2017 at Purdue University
 
 <h4 style="text-align:center">
   This course introduces linear algebra topics which include: 
@@ -11,8 +11,8 @@
 
 # Information
 
-- Course location: MTWRF from 8:40 am - 9:40 am (section 001).
-- Office hours:  MTWRF from 9:40 am - 10:10 am.
+- Course location: MWF from 09:30 AM - 10:20 AM and 10:30 AM - 11:20 (sections 021 and 081 respectively).
+- Office hours:  MWF from 11:25 AM- 12:40 PM.
 - Course website: <https://github.com/gnang/MA35100>
 - Professor: [Edinah Gnang](http://www.math.purdue.edu/~egnang/)
 

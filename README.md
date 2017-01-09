@@ -1,4 +1,4 @@
-# Elementary Linear Algebra - 22450 - MA 35100 - 021 and 081
+# Elementary Linear Algebra - MA 35100 - SEC 021 and 081
 
 ## Spring 2017 at Purdue University
 
